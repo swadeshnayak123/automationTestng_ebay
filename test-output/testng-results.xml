@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T18:41:48 IST" name="Default suite" finished-at="2023-07-21T18:42:04 IST" duration-ms="16290">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T18:41:48 IST" name="Default test" finished-at="2023-07-21T18:42:04 IST" duration-ms="16290">
+      <class name="com.swadesh.automationTestng.EbayHome">
+        <test-method is-config="true" signature="Login()[pri:0, instance:com.swadesh.automationTestng.EbayHome@7b2bbc3]" started-at="2023-07-21T18:41:48 IST" name="Login" finished-at="2023-07-21T18:41:58 IST" duration-ms="9593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="ebaySearchBoc()[pri:0, instance:com.swadesh.automationTestng.EbayHome@7b2bbc3]" started-at="2023-07-21T18:41:58 IST" name="ebaySearchBoc" finished-at="2023-07-21T18:42:04 IST" duration-ms="6657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ebaySearchBoc -->
+      </class> <!-- com.swadesh.automationTestng.EbayHome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
